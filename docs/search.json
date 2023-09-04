@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "title": "datamastersite",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Sophia's Mastersite for Data Projects",
+      "description": "Collection of my data projects \n",
       "author": [],
-      "contents": "\r\nThis is the index\r\nSomemore changes\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-09-03T23:56:34-04:00"
+      "contents": "\r\nHello!\r\nHi, I’m Sophia! I’m a student at the University of Waterloo and Wilfrid Laurier University, currently pursing a double degree in BMath and BBA. This website is going to aggregate the data projects that I have in one space!\r\nThese data projects are mainly a way to:\r\nImprove my R programming skills.\r\nExplore a niche that interests me!\r\nThese objectives become more specific when you click onto the projects (click the tabs on the top right!) as I always have certain goals I want to achieve. But, I started (and continue) to work with data because it’s super interesting to see how you can transform a mess of numbers into meaningful insights through analysis - and see how these insights can result in vital changes! The continual process to discover the ‘truth’ of the data set is incredibly rewarding and encourages me to delve further into data science.\r\nIf you have any questions about my projects or would like to reach out, please contact me here! You can also learn more about me on my website: zhusophia.github.io.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-09-04T01:51:11-04:00"
     }
   ],
   "collections": []

@@ -1,12 +1,27 @@
 name: "docs"
-title: "datamastersite"
+title: "Sophia's Data Mastersite"
 description: |
-  datamastersite
+  WAHOO
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Big Five Personality Test"
+      menu: 
+        - text: "Home"
+          href: about.html
+        - text: "Data"
+          href: about.html
+        - text: "Analysis"
+          href: about.html
+    - text: "Fake Fake News"
+      menu: 
+        - text: "Home"
+          href: about.html
+        - text: "Data"
+          href: about.html
+        - text: "Analysis"
+          href: about.html
+      
 output: distill::distill_article

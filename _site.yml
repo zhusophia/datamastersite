@@ -2,7 +2,7 @@ name: "docs"
 title: "datamastersite"
 description: |
   datamastersite
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"

@@ -1,7 +1,7 @@
 name: "docs"
 title: "Sophia's Data Mastersite"
 description: |
-  WAHOO
+  Sophia's website to organize her data projects. 
 output_dir: "docs"
 navbar:
   right:
@@ -10,7 +10,7 @@ navbar:
     - text: "Big Five Personality Test"
       menu: 
         - text: "Home"
-          href: about.html
+          href: FakeFake/fakehome.html
         - text: "Data"
           href: about.html
         - text: "Analysis"

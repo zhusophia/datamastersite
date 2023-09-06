@@ -1,0 +1,24 @@
+readding big five
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	deleted:    FakeFake/NewHorkTimes.Rmd
+#	deleted:    FakeFake/NewHorkTimes.html
+#	deleted:    FakeFake/fakehome.Rmd
+#	deleted:    FakeFake/fakehome.html
+#	deleted:    bigfive/fivebeyond.Rmd
+#	deleted:    bigfive/fivedata.Rmd
+#	deleted:    bigfive/fiveintro.Rmd
+#	modified:   docs/FakeFake/fakehome.Rmd
+#	modified:   docs/FakeFake/fakehome.html
+#
+# Untracked files:
+#	docs/FakeFake/NewHorkTimes.Rmd
+#	docs/FakeFake/NewHorkTimes.html
+#	docs/bigfive/
+#

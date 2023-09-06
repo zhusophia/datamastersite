@@ -1,0 +1,34 @@
+---
+title: "BREAKING NEWS: FBI Finds a US Murderer Hiding With Suspicious Book."
+description: |
+  Murderer hides a book with unknown symbols while sleeping in an attic.
+author:
+  - name: Sophia Zhu 
+    url: https://github.com/zhusophia
+    affiliation: New Hork Times
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### "It was nothing like I have ever seen before.... It's so strange!
+
+Horton, T.M - The FBI has been pursuing Joseph “Jojo” Joestar for the past few months, as he’s been involved with several high-profile murder cases. It has been a difficult case for the FBI, as their cutting-edge technology seems to fail whenever they enter Jojo’s proximity. 
+
+### “I called the police since I found someone sleeping in my attic! I didn’t know it was a wanted murderer!”
+
+On February 31st, Jojo has been found hiding in a stranger’s attic, clutching a battered, hardcover book as he sleeps. There are unknown symbols embossed on the cover and within the book, drawn using varying different colors. The symbols resemble no modern languages and the origin of this book is unknown. 
+
+Language expert Dazai has been contacted to attempt to decipher these symbols and give the FBI more insight into this strange language. However, he seems to be making no progress, saying “I’ve never seen anything like this. This book is not from our world.” 
+
+Jojo has been asleep in the local prison for the past month while this situation unfolds. There has been no indication he will wake up anytime soon. Hence, the question of where this book came from may never be solved. However, a number of high-profile murders still continue, as the President of Canada and the Emperor of Atlantis have been assassinated. The public has started to doubt: Has Jojo really been behind the murderers if they’re still continuing while he’s asleep? 
+
+### Looking to the Future
+
+In fact, Jojo seems to be toying with the FBI. In the past few months, he’s competed in the Barkley Marathons — a grueling ultramarathon for the most eccentric marathoners. In 2023, he set the record for the fastest ‘Fun Run’, despite never having any public records of competing in any races. However, Jojo unfortunately had vivid hallucinations resulting from sleep deprivation, got lost, and was unable to complete the entire race. The FBI was nowhere to be seen at this event. 
+
+After competing in the marathon, Jojo has been linked to the murder of a family of 3, adding to his strange list of murder victims: The Prime Minister of America and his grandfather. The motive for his actions is still unknown. 

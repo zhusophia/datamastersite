@@ -9,19 +9,17 @@ navbar:
       href: index.html
     - text: "Big Five Personality Test"
       menu: 
-        - text: "Home"
-          href: FakeFake/fakehome.html
+        - text: "Introduction"
+          href: bigfive/fiveintro.html
         - text: "Data"
-          href: about.html
-        - text: "Analysis"
-          href: about.html
+          href: bigfive/fivedata.html
+        - text: "Beyond the Dataset"
+          href: bigfive/fivebeyond.html
     - text: "Fake Fake News"
       menu: 
-        - text: "Home"
-          href: about.html
         - text: "Data"
-          href: about.html
-        - text: "Analysis"
-          href: about.html
+          href: FakeFake/fakehome.html
+        - text: "New Hork Times Article"
+          href: FakeFake/NewHorkTimes.html
       
 output: distill::distill_article

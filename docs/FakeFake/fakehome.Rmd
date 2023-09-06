@@ -1,5 +1,5 @@
 ---
-title: "BREAKING NEWS: FBI Says They Found 'Man Child' In The Woods!"
+title: "BREAKING NEWS: FBI Finds a US Murderer Hiding With Suspicious Book."
 description: |
   If you clicked on this link, it means that my project was a success
 site: distill::distill_website
@@ -121,7 +121,6 @@ Hmm.... Let's  clean this data up by removing duplicates, punctuation, and prepo
 </div>
 
 ```{r, politic graph}
-titledata <- read.csv("newstitle1.csv") #reentering data
 removedata <- titledata %>%
   select(title, category) %>%
   mutate(title = strsplit(as.character(title), " ")) %>%
@@ -145,7 +144,6 @@ Oh, this isn't fun. This just SCREAMS 2018. Let's get away from all the specific
 </div> 
 
 ```{r, final graph}
-titledata <- read.csv("newstitle1.csv")
 removedata <- titledata %>%
   select(title, category) %>%
   mutate(title = strsplit(as.character(title), " ")) %>%
@@ -167,5 +165,5 @@ labs(title = "Most Common Words in Fake News Headlines (Non-Politics)",
 <div>
 Alright.... now we can work with this data. Considering out character limit from before, and taking the subjects that were taken from headlines.... the best fake fake news article title (proven using data) is: 
 
-# BREAKING NEWS: FBI says they found 'Man Child' in the woods!
+# BREAKING NEWS: FBI Finds a US Murderer Hiding With Suspicious Book.
 </div> 
